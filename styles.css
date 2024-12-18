@@ -31,6 +31,11 @@ header {
   height: 400px;
   box-shadow: 0 4px 5px rgba(0,0,0,0.2);
   padding: 18px;
+  transition: all .3s;
+}
+
+.movie:hover {
+  transform: translateY(-10px);
 }
 
 .movie img {
