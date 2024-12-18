@@ -48,7 +48,7 @@ function showMovies(movies) {
     movieCard.innerHTML = `
       <img src="${API_BASE_URL + poster_path}" alt="html the movie"/>
       <div class="detail">
-        <h3>${title.substring(0, 20)}</h3>
+        <h3>${title.substring(0, 40)}</h3>
         <p>${overview.substring(0, 100)}...</p>
       </div>
     `
