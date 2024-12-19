@@ -35,7 +35,8 @@ header {
 }
 
 .movie:hover {
-  transform: translateY(-10px);
+  transform: translateY(-11px);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.2);
 }
 
 .movie img {
