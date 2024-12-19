@@ -45,6 +45,10 @@ header {
   object-fit: cover;
 }
 
+.movie p {
+  font-size: 12px;
+}
+
 .pagination {
   display: flex;
   gap: 16px;
