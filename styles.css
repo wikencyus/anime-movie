@@ -75,4 +75,7 @@ header {
   .movie p {
     font-size: 12px;
   }
+  .movie h3 {
+    font-size: 16px;
+  }
 }
